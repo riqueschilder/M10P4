@@ -1,0 +1,20 @@
+2024/06/17 18:54:09 [emerg] 1#1: host not found in upstream "backend_auth:5000" in /etc/nginx/nginx.conf:18
+2024/06/17 18:54:10 [emerg] 1#1: host not found in upstream "backend_auth:5000" in /etc/nginx/nginx.conf:18
+2024/06/17 18:54:12 [emerg] 1#1: host not found in upstream "backend_auth:5000" in /etc/nginx/nginx.conf:18
+2024/06/17 18:54:12 [emerg] 1#1: host not found in upstream "backend_auth:5000" in /etc/nginx/nginx.conf:18
+2024/06/17 18:54:14 [emerg] 1#1: host not found in upstream "backend_auth:5000" in /etc/nginx/nginx.conf:18
+2024/06/17 18:54:15 [emerg] 1#1: host not found in upstream "backend_auth:5000" in /etc/nginx/nginx.conf:18
+2024/06/17 18:54:19 [emerg] 1#1: host not found in upstream "backend_auth:5000" in /etc/nginx/nginx.conf:18
+2024/06/17 18:54:26 [emerg] 1#1: host not found in upstream "backend_auth:5000" in /etc/nginx/nginx.conf:18
+2024/06/17 18:54:39 [emerg] 1#1: host not found in upstream "backend_auth:5000" in /etc/nginx/nginx.conf:18
+2024/06/17 18:55:05 [emerg] 1#1: host not found in upstream "backend_auth:5000" in /etc/nginx/nginx.conf:18
+2024/06/17 18:55:57 [emerg] 1#1: host not found in upstream "backend_auth:5000" in /etc/nginx/nginx.conf:18
+2024/06/17 18:56:57 [emerg] 1#1: host not found in upstream "backend_auth:5000" in /etc/nginx/nginx.conf:18
+2024/06/17 18:57:57 [emerg] 1#1: host not found in upstream "backend_auth:5000" in /etc/nginx/nginx.conf:18
+2024/06/17 18:58:57 [emerg] 1#1: host not found in upstream "backend_auth:5000" in /etc/nginx/nginx.conf:18
+2024/06/17 19:01:47 [error] 30#30: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/usuarios"
+2024/06/17 19:01:45 [error] 30#30: *1 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 172.18.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8000"
+2024/06/17 19:01:45 [error] 30#30: *1 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2024/06/17 19:01:52 [error] 30#30: *1 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 172.18.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8000"
+2024/06/17 19:04:40 [emerg] 1#1: host not found in upstream "backend_auth:5000" in /etc/nginx/nginx.conf:18
+2024/06/17 19:04:52 [emerg] 1#1: host not found in upstream "backend_auth:5000" in /etc/nginx/nginx.conf:18
